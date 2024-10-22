@@ -1,5 +1,5 @@
 body {
-  background-color: #303d4f;
+  background-color: #262e3b;
   font-family: "Poppins", sans-serif;
   color: white;
 }
@@ -11,4 +11,28 @@ body {
   box-shadow: 0 10px 50px rgb(2, 8, 34, 0.7);
   padding: 30px;
   border-radius: 10px;
+}
+
+.search-form-input {
+  background: #262e3b;
+  border: none;
+  border-radius: 6px;
+  width: 80%;
+  font-size: 16px;
+  padding: 15px 20px;
+}
+
+.search-form-button {
+  background: #2aadf8;
+  border: none;
+  margin-left: 5px;
+  color: white;
+  padding: 15px 30px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+a {
+  color: #6395bb;
 }
