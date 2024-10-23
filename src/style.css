@@ -32,6 +32,10 @@ header {
   padding: 15px 20px;
 }
 
+.search-form-input::placeholder {
+  color: white;
+}
+
 .search-form-button {
   background: #2aadf8;
   border: none;
